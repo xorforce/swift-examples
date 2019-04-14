@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D11E6DF12263BA1A006AD1AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11E6DF02263BA1A006AD1AB /* AppDelegate.swift */; };
-		D11E6DF32263BA1A006AD1AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11E6DF22263BA1A006AD1AB /* ViewController.swift */; };
-		D11E6DF62263BA1A006AD1AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D11E6DF42263BA1A006AD1AB /* Main.storyboard */; };
-		D11E6DF92263BA1A006AD1AB /* Gradients.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D11E6DF72263BA1A006AD1AB /* Gradients.xcdatamodeld */; };
-		D11E6DFB2263BA1B006AD1AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11E6DFA2263BA1B006AD1AB /* Assets.xcassets */; };
-		D11E6DFE2263BA1B006AD1AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D11E6DFC2263BA1B006AD1AB /* LaunchScreen.storyboard */; };
+		D11E6E122263C0C6006AD1AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11E6E112263C0C6006AD1AB /* AppDelegate.swift */; };
+		D11E6E142263C0C6006AD1AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11E6E132263C0C6006AD1AB /* ViewController.swift */; };
+		D11E6E172263C0C6006AD1AB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D11E6E152263C0C6006AD1AB /* Main.storyboard */; };
+		D11E6E1A2263C0C6006AD1AB /* _1_Gradients.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D11E6E182263C0C6006AD1AB /* _1_Gradients.xcdatamodeld */; };
+		D11E6E1C2263C0C6006AD1AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D11E6E1B2263C0C6006AD1AB /* Assets.xcassets */; };
+		D11E6E1F2263C0C6006AD1AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D11E6E1D2263C0C6006AD1AB /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D11E6DED2263BA1A006AD1AB /* Gradients.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gradients.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D11E6DF02263BA1A006AD1AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D11E6DF22263BA1A006AD1AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D11E6DF52263BA1A006AD1AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D11E6DF82263BA1A006AD1AB /* Gradients.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Gradients.xcdatamodel; sourceTree = "<group>"; };
-		D11E6DFA2263BA1B006AD1AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D11E6DFD2263BA1B006AD1AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D11E6DFF2263BA1B006AD1AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D11E6E0E2263C0C6006AD1AB /* 01-Gradients.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-Gradients.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D11E6E112263C0C6006AD1AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D11E6E132263C0C6006AD1AB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D11E6E162263C0C6006AD1AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D11E6E192263C0C6006AD1AB /* _1_Gradients.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = _1_Gradients.xcdatamodel; sourceTree = "<group>"; };
+		D11E6E1B2263C0C6006AD1AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D11E6E1E2263C0C6006AD1AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D11E6E202263C0C6006AD1AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D11E6DEA2263BA1A006AD1AB /* Frameworks */ = {
+		D11E6E0B2263C0C6006AD1AB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D11E6DE42263BA1A006AD1AB = {
+		D11E6E052263C0C6006AD1AB = {
 			isa = PBXGroup;
 			children = (
-				D11E6DEF2263BA1A006AD1AB /* Gradients */,
-				D11E6DEE2263BA1A006AD1AB /* Products */,
+				D11E6E102263C0C6006AD1AB /* 01-Gradients */,
+				D11E6E0F2263C0C6006AD1AB /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D11E6DEE2263BA1A006AD1AB /* Products */ = {
+		D11E6E0F2263C0C6006AD1AB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D11E6DED2263BA1A006AD1AB /* Gradients.app */,
+				D11E6E0E2263C0C6006AD1AB /* 01-Gradients.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D11E6DEF2263BA1A006AD1AB /* Gradients */ = {
+		D11E6E102263C0C6006AD1AB /* 01-Gradients */ = {
 			isa = PBXGroup;
 			children = (
-				D11E6DF02263BA1A006AD1AB /* AppDelegate.swift */,
-				D11E6DF22263BA1A006AD1AB /* ViewController.swift */,
-				D11E6DF42263BA1A006AD1AB /* Main.storyboard */,
-				D11E6DFA2263BA1B006AD1AB /* Assets.xcassets */,
-				D11E6DFC2263BA1B006AD1AB /* LaunchScreen.storyboard */,
-				D11E6DFF2263BA1B006AD1AB /* Info.plist */,
-				D11E6DF72263BA1A006AD1AB /* Gradients.xcdatamodeld */,
+				D11E6E112263C0C6006AD1AB /* AppDelegate.swift */,
+				D11E6E132263C0C6006AD1AB /* ViewController.swift */,
+				D11E6E152263C0C6006AD1AB /* Main.storyboard */,
+				D11E6E1B2263C0C6006AD1AB /* Assets.xcassets */,
+				D11E6E1D2263C0C6006AD1AB /* LaunchScreen.storyboard */,
+				D11E6E202263C0C6006AD1AB /* Info.plist */,
+				D11E6E182263C0C6006AD1AB /* _1_Gradients.xcdatamodeld */,
 			);
-			path = Gradients;
+			path = "01-Gradients";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D11E6DEC2263BA1A006AD1AB /* Gradients */ = {
+		D11E6E0D2263C0C6006AD1AB /* 01-Gradients */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D11E6E022263BA1B006AD1AB /* Build configuration list for PBXNativeTarget "Gradients" */;
+			buildConfigurationList = D11E6E232263C0C6006AD1AB /* Build configuration list for PBXNativeTarget "01-Gradients" */;
 			buildPhases = (
-				D11E6DE92263BA1A006AD1AB /* Sources */,
-				D11E6DEA2263BA1A006AD1AB /* Frameworks */,
-				D11E6DEB2263BA1A006AD1AB /* Resources */,
+				D11E6E0A2263C0C6006AD1AB /* Sources */,
+				D11E6E0B2263C0C6006AD1AB /* Frameworks */,
+				D11E6E0C2263C0C6006AD1AB /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Gradients;
-			productName = Gradients;
-			productReference = D11E6DED2263BA1A006AD1AB /* Gradients.app */;
+			name = "01-Gradients";
+			productName = "01-Gradients";
+			productReference = D11E6E0E2263C0C6006AD1AB /* 01-Gradients.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D11E6DE52263BA1A006AD1AB /* Project object */ = {
+		D11E6E062263C0C6006AD1AB /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Bhagat Singh";
 				TargetAttributes = {
-					D11E6DEC2263BA1A006AD1AB = {
+					D11E6E0D2263C0C6006AD1AB = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = D11E6DE82263BA1A006AD1AB /* Build configuration list for PBXProject "Gradients" */;
+			buildConfigurationList = D11E6E092263C0C6006AD1AB /* Build configuration list for PBXProject "01-Gradients" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = D11E6DE42263BA1A006AD1AB;
-			productRefGroup = D11E6DEE2263BA1A006AD1AB /* Products */;
+			mainGroup = D11E6E052263C0C6006AD1AB;
+			productRefGroup = D11E6E0F2263C0C6006AD1AB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D11E6DEC2263BA1A006AD1AB /* Gradients */,
+				D11E6E0D2263C0C6006AD1AB /* 01-Gradients */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D11E6DEB2263BA1A006AD1AB /* Resources */ = {
+		D11E6E0C2263C0C6006AD1AB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D11E6DFE2263BA1B006AD1AB /* LaunchScreen.storyboard in Resources */,
-				D11E6DFB2263BA1B006AD1AB /* Assets.xcassets in Resources */,
-				D11E6DF62263BA1A006AD1AB /* Main.storyboard in Resources */,
+				D11E6E1F2263C0C6006AD1AB /* LaunchScreen.storyboard in Resources */,
+				D11E6E1C2263C0C6006AD1AB /* Assets.xcassets in Resources */,
+				D11E6E172263C0C6006AD1AB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D11E6DE92263BA1A006AD1AB /* Sources */ = {
+		D11E6E0A2263C0C6006AD1AB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D11E6DF92263BA1A006AD1AB /* Gradients.xcdatamodeld in Sources */,
-				D11E6DF32263BA1A006AD1AB /* ViewController.swift in Sources */,
-				D11E6DF12263BA1A006AD1AB /* AppDelegate.swift in Sources */,
+				D11E6E1A2263C0C6006AD1AB /* _1_Gradients.xcdatamodeld in Sources */,
+				D11E6E142263C0C6006AD1AB /* ViewController.swift in Sources */,
+				D11E6E122263C0C6006AD1AB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D11E6DF42263BA1A006AD1AB /* Main.storyboard */ = {
+		D11E6E152263C0C6006AD1AB /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D11E6DF52263BA1A006AD1AB /* Base */,
+				D11E6E162263C0C6006AD1AB /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D11E6DFC2263BA1B006AD1AB /* LaunchScreen.storyboard */ = {
+		D11E6E1D2263C0C6006AD1AB /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D11E6DFD2263BA1B006AD1AB /* Base */,
+				D11E6E1E2263C0C6006AD1AB /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D11E6E002263BA1B006AD1AB /* Debug */ = {
+		D11E6E212263C0C6006AD1AB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		D11E6E012263BA1B006AD1AB /* Release */ = {
+		D11E6E222263C0C6006AD1AB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,36 +282,36 @@
 			};
 			name = Release;
 		};
-		D11E6E032263BA1B006AD1AB /* Debug */ = {
+		D11E6E242263C0C6006AD1AB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VG36S3M9UZ;
-				INFOPLIST_FILE = Gradients/Info.plist;
+				INFOPLIST_FILE = "01-Gradients/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bhagatsingh.Gradients;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bhagatsingh.-1-Gradients";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D11E6E042263BA1B006AD1AB /* Release */ = {
+		D11E6E252263C0C6006AD1AB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VG36S3M9UZ;
-				INFOPLIST_FILE = Gradients/Info.plist;
+				INFOPLIST_FILE = "01-Gradients/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bhagatsingh.Gradients;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bhagatsingh.-1-Gradients";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -321,20 +321,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D11E6DE82263BA1A006AD1AB /* Build configuration list for PBXProject "Gradients" */ = {
+		D11E6E092263C0C6006AD1AB /* Build configuration list for PBXProject "01-Gradients" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D11E6E002263BA1B006AD1AB /* Debug */,
-				D11E6E012263BA1B006AD1AB /* Release */,
+				D11E6E212263C0C6006AD1AB /* Debug */,
+				D11E6E222263C0C6006AD1AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D11E6E022263BA1B006AD1AB /* Build configuration list for PBXNativeTarget "Gradients" */ = {
+		D11E6E232263C0C6006AD1AB /* Build configuration list for PBXNativeTarget "01-Gradients" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D11E6E032263BA1B006AD1AB /* Debug */,
-				D11E6E042263BA1B006AD1AB /* Release */,
+				D11E6E242263C0C6006AD1AB /* Debug */,
+				D11E6E252263C0C6006AD1AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -342,17 +342,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		D11E6DF72263BA1A006AD1AB /* Gradients.xcdatamodeld */ = {
+		D11E6E182263C0C6006AD1AB /* _1_Gradients.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				D11E6DF82263BA1A006AD1AB /* Gradients.xcdatamodel */,
+				D11E6E192263C0C6006AD1AB /* _1_Gradients.xcdatamodel */,
 			);
-			currentVersion = D11E6DF82263BA1A006AD1AB /* Gradients.xcdatamodel */;
-			path = Gradients.xcdatamodeld;
+			currentVersion = D11E6E192263C0C6006AD1AB /* _1_Gradients.xcdatamodel */;
+			path = _1_Gradients.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = D11E6DE52263BA1A006AD1AB /* Project object */;
+	rootObject = D11E6E062263C0C6006AD1AB /* Project object */;
 }

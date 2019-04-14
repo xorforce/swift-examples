@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     let gradientColor1: UIColor = UIColor(red: 252/255, green: 70/255, blue: 107/255, alpha: 1.0)
     let gradientColor2: UIColor = UIColor(red: 63/255, green: 94/255, blue: 251/255, alpha: 1.0)
     
@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         setupGradient()
     }
-
+    
     fileprivate func setupGradient() {
         
         //initialize the gradient layer
@@ -46,6 +46,6 @@ class ViewController: UIViewController {
         
         //For awesome gradient hues, visit uigradients.com
     }
-
+    
 }
 
