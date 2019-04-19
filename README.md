@@ -1,5 +1,4 @@
-# swift-examples
-[Examples] Isolated examples purely in Swift, for budding iOS Devs 👩🏼‍💻
+# Swift-Examples
 
 This repository contains all the example apps demonstrating features/integrations of different libraries/functionalities in your iOS apps purely developed on Swift.
 <br><br>
