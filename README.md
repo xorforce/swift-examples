@@ -9,4 +9,5 @@ This repository contains all the example apps demonstrating features/integration
 <ol>
 <li>Gradients</li>
 <li>Lottie Animations</li>
+<li>Autolayout Anchors</li>
 </ol>
