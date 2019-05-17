@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D1DF8351228F475B0086A271 /* CameraPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CameraPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1DF8351228F475B0086A271 /* 04-CameraAndAlbumPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "04-CameraAndAlbumPicker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1DF8354228F475B0086A271 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1DF8356228F475B0086A271 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D1DF8359228F475B0086A271 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		D1DF8352228F475B0086A271 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D1DF8351228F475B0086A271 /* CameraPicker.app */,
+				D1DF8351228F475B0086A271 /* 04-CameraAndAlbumPicker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D1DF8350228F475B0086A271 /* CameraPicker */ = {
+		D1DF8350228F475B0086A271 /* 04-CameraAndAlbumPicker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D1DF8366228F475C0086A271 /* Build configuration list for PBXNativeTarget "CameraPicker" */;
+			buildConfigurationList = D1DF8366228F475C0086A271 /* Build configuration list for PBXNativeTarget "04-CameraAndAlbumPicker" */;
 			buildPhases = (
 				D1DF834D228F475B0086A271 /* Sources */,
 				D1DF834E228F475B0086A271 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = CameraPicker;
+			name = "04-CameraAndAlbumPicker";
 			productName = CameraPicker;
-			productReference = D1DF8351228F475B0086A271 /* CameraPicker.app */;
+			productReference = D1DF8351228F475B0086A271 /* 04-CameraAndAlbumPicker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D1DF834C228F475B0086A271 /* Build configuration list for PBXProject "CameraPicker" */;
+			buildConfigurationList = D1DF834C228F475B0086A271 /* Build configuration list for PBXProject "04-CameraAndAlbumPicker" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D1DF8350228F475B0086A271 /* CameraPicker */,
+				D1DF8350228F475B0086A271 /* 04-CameraAndAlbumPicker */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D1DF834C228F475B0086A271 /* Build configuration list for PBXProject "CameraPicker" */ = {
+		D1DF834C228F475B0086A271 /* Build configuration list for PBXProject "04-CameraAndAlbumPicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D1DF8364228F475C0086A271 /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D1DF8366228F475C0086A271 /* Build configuration list for PBXNativeTarget "CameraPicker" */ = {
+		D1DF8366228F475C0086A271 /* Build configuration list for PBXNativeTarget "04-CameraAndAlbumPicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D1DF8367228F475C0086A271 /* Debug */,
