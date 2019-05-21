@@ -12,4 +12,6 @@ This repository contains all the example apps demonstrating features/integration
 <li>Autolayout Anchors</li>
 <li>Album Picker/Camera Picker</li>
 <li>Delegates</li>
+<li>Tap Gesture</li>
+<li>Alerts/Action Sheets</li>
 </ol>
