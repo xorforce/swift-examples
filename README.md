@@ -11,4 +11,5 @@ This repository contains all the example apps demonstrating features/integration
 <li>Lottie Animations</li>
 <li>Autolayout Anchors</li>
 <li>Album Picker/Camera Picker</li>
+<li>Delegates</li>
 </ol>
